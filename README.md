@@ -10,7 +10,6 @@ This repository contains the data preprocessing pipeline and machine learning mo
 * Each entry includes:
 
   * Chemical composition
-  * Dopant concentration
   * Excitation wavelength
   * Emission wavelength
   * Crystal field energy levels (⁴T₁, ⁴T₂)
